@@ -11,5 +11,5 @@ To be specific,  [`hci_acl_handle` function](https://github.com/zephyrproject-rt
 
 
 
-We validated this problem using the Zephyr HCI-UART example on the nrf52840dk board and send a email to zephyr on 2025.4.24 and they opened a patch to fix it https://github.com/zephyrproject-rtos/zephyr/pull/89481.
+We validated this problem using the Zephyr HCI-UART example on the nrf52840dk board and has reported to zephyr community and opened a patch to fix it https://github.com/zephyrproject-rtos/zephyr/pull/89481.
 
